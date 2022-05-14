@@ -50,8 +50,8 @@ The `--reload` flag will detect file changes and restart the server automaticall
 
 ## Notes:
 
-Drinks endpoints implemented in the blueprint/blueprint_drinks.py
-Errors implemented in the blueprint/errors_handler.py
+1. Drinks endpoints implemented in the blueprint/blueprint_drinks.py
+2. Errors implemented in the blueprint/errors_handler.py
 
 ## Tasks
 
